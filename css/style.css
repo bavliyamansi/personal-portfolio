@@ -96,8 +96,8 @@ section{
     margin:1rem 0;
     border:1rem solid transparent;
     border-radius: 50%;
-    height: 18rem;
-    width: 18rem;
+    height: 15rem;
+    width: 15rem;
     box-shadow: var(--box-shadow);
 }
 
